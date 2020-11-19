@@ -22,3 +22,12 @@ I want to be able to see a list of my bookmarks
 1. Connect to psql
 2. Create the database using the psql command CREATE DATABASE bookmark_manager_test;
 3. Connect to the database using the pqsl command \c bookmark_manager_test
+
+```
+User Story 2:
+As a user
+So I can store bookmark data for later retrieval
+I want to add a bookmark to Bookmark Manager
+```
+
+![SD for User Story #2](./resources/US2.png)
